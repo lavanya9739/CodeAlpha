@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>To-do List</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div class="Container">
+		<h1>TO-DO LIST</h1>
+		<div class="cat-holder">
+			<img src="https://i.pinimg.com/564x/cf/eb/4d/cfeb4d28dd478d28909194cfbecd04fb.jpg" alt="Cat holding the input box">
+		</div>
+
+		<div class="row">
+			<form>
+				<div class="input-group">
+					<input type="text" placeholder="Enter a task" id="box">
+				</div>
+				<br>
+				<div class="form-group">
+					<input type="button" value="Add" onclick="add_item()">
+				</div>
+			</form>
+		</div>
+
+		<div class="row">
+			<ul id="list_item"></ul>
+		</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
