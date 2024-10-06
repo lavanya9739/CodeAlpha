@@ -23,3 +23,6 @@ A playful and interactive to-do list web application where users can manage thei
 
 **👏 Contributing**
 Feel free to submit pull requests or issues to help improve the project! Contributions, whether they’re bug fixes, new features, or improvements, are always welcome.
+
+![image](https://github.com/user-attachments/assets/7a164b5c-fae9-4189-8bc8-8cc9bc37ac28)
+
