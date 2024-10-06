@@ -18,8 +18,8 @@ A playful and interactive to-do list web application where users can manage thei
 - Font: Comic Sans MS for a fun vibe.
 
 **Future Improvements**
-Local Storage: Save tasks in the browser for persistence after refresh.
-Enhanced Animations: More fun interactions or themed animations.
+- Local Storage: Save tasks in the browser for persistence after refresh.
+- Enhanced Animations: More fun interactions or themed animations.
 
 **👏 Contributing**
 Feel free to submit pull requests or issues to help improve the project! Contributions, whether they’re bug fixes, new features, or improvements, are always welcome.
